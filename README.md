@@ -51,3 +51,6 @@ cd docs && python3 -m http.server 4173
 ## Production rule
 
 Merging or deploying to `coreaxishq.com` needs Nero’s explicit OK after review.
+
+## v2 (28 Sep 2026)
+Studio-aligned rewrite: removed personal name from public face, matched live Core Axis visual language (orbs/grid/glass header), Site Rescue as flagship package under multi-lane brand.
