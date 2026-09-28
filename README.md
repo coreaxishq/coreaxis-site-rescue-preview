@@ -10,7 +10,7 @@ Static preview of a reworked homepage that leads with the locked sprint offer:
 
 **14-Day Site Rescue** — Good £1,450 / Better £1,950 (default) / Best £2,750
 
-Open `public/index.html` locally, or enable GitHub Pages on the `public/` folder after push.
+Open `docs/index.html` locally, or enable GitHub Pages on the `docs/` folder after push.
 
 ## What the live site does today (original)
 
@@ -44,7 +44,7 @@ Multi-lane brand kept (websites / systems / advanced) so Core Axis is not trappe
 ## Local preview
 
 ```bash
-cd public && python3 -m http.server 4173
+cd docs && python3 -m http.server 4173
 # open http://127.0.0.1:4173
 ```
 
